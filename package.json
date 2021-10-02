@@ -1,11 +1,11 @@
 {
     "name": "net.shattered-devs.dragonbones",
-    "displayName": "Shattered-Devs DragonBones",
-    "description": "Custom version of DragonBones for Shattered-Devs",
-    "version": "5.6.300-custom",
+    "displayName": "DragonBones",
+    "description": "DragonBones Package for using DragonBones bones on Unity.",
+    "version": "5.6.300",
     "unity": "2020.2",
     "author": {
-        "name": "The DragonBones team and Shattered-Devs",
+        "name": "Shattered-Devs and The DragonBones team",
         "email": "contact@shattered-devs.net",
         "url": "http://shattered-devs.net/"
     }
