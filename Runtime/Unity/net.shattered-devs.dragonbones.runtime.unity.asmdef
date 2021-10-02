@@ -1,0 +1,17 @@
+{
+    "name": "net.shattered-devs.dragonbones.runtime.unity",
+    "rootNamespace": "",
+    "references": [
+        "GUID:07d9f41cdd5ebc64fb7b403a59005851",
+        "GUID:f39eeef3e73f5ee429842d31064032c9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
